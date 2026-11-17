@@ -5,7 +5,7 @@ Here is the house maintenance policy:
 
 1. Monthly maintenance charge is Rs. 3000.
 2. Payment must be made by the 10th of every month.
-3. A late fine of Rs. 200 applies after the 10th.
+3. A late fine of Rs.200 applises after the 10th.
 4. Water charges are included in the maintenance bill.
 5. One parking space is free.
 6. Extra parking costs Rs. 500 per month.
